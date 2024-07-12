@@ -1,0 +1,19 @@
+.gg
+{
+   display: flex;
+   align-items: center;
+}
+form
+{
+    border: 2px solid black;
+    width:600px;
+    background-color: burlywood;
+}
+form input,label
+{
+    margin-left:15px ;
+}
+body
+{
+    background-color: rgb(108, 179, 179);
+}
